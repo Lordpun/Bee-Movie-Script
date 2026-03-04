@@ -1,4 +1,4 @@
-Running this script will slowly print out the bee movie at a rate of 1 sentene per second.
+Running this script will slowly print out the bee movie at a rate of 1 sentence per second.
 
 Simply run the script and enjoy
 
